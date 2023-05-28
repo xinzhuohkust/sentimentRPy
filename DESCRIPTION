@@ -1,11 +1,11 @@
 Package: sentimentRPy
-Title: sentence-level and word-level sentiment analysis.
+Type: Package
+Title: What the Package Does (Title Case)
 Version: 0.1.0
-Authors@R: 
-    person("Xinzhuo", "Huang", email = "xhuangcb@connect.ust.hk", role = c("aut", "cre"))
-Description: The package for sentiment analysis which support vectorization, multithreading, and is robust to errors.
-License: GPL-3
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.1
-URL: https://xinzhuo.work/project/
