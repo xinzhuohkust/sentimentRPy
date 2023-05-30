@@ -18,8 +18,7 @@ An R package for sentence-level and word-level sentiment analysis which support 
 <br>
 
 
-## Install this package
-
+## Installation
 ```
 remotes::install_github("xinzhuohkust/sentimentRPy")
 ```
